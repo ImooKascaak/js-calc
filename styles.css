@@ -1,0 +1,24 @@
+* {
+    margin: auto;
+    font-family: 'Abel';
+    font-size: 30px;
+}
+
+body {
+    margin-top: 4em;
+}
+
+input {
+    padding: 2em;
+    width: 100%;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+
+table, td {
+    border-radius: 10px;
+}
+
+.nan {
+    background-color: seagreen;
+}
