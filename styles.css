@@ -11,7 +11,7 @@ body {
 input {
     padding: 2em;
     width: 100%;
-    background-color: skyblue;
+    background-color: #7FDBFF;
     border-radius: 10px;
 }
 
@@ -20,5 +20,5 @@ table, td {
 }
 
 .nan {
-    background-color: seagreen;
+    background-color: #01FF70;
 }
